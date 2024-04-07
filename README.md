@@ -9,7 +9,7 @@
 <p>🕐 <code>feb 02, 2023</code> ~ <code>Nov 28, 2023</code> <b> हिमांशु </b> &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/76584961/216518470-88179044-bd5d-47b4-9a02-6224b29f5fa3.gif" style="height: 30px"/></p>
 
 <br />
-<a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeogun95&count_bg=%23C8A03D&title_bg=%23555555&icon=git.svg&icon_color=%23FFFFFF&title=Seogun95&edge_flat=false"/></a>
+<a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeogun95&count_bg=%23C8A03D&title_bg=%23555555&icon=git.svg&icon_color=%23FFFFFF&title=Himanshu&edge_flat=false"/></a>
 
 <h2>MY TECH STACK <img src="https://user-images.githubusercontent.com/76584961/217931497-5525468d-4682-4e93-aaae-fcad0a1b9840.gif" style="height: 30px"/></h2>
 
