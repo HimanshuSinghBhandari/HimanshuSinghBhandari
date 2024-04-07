@@ -1,29 +1,64 @@
- <h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
-<h3 align="center">An enthusiastic front-end developer hailing from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+ 
+![waving](https://capsule-render.vercel.app/api?type=Waving&height=300&width=200&text=JUNGKKEOKMA&desc=Wut%20matters%20is%20the%20indomitable%20spirit&descAlignY=60&fontAlign=50&fontSize=50&fontAlignY=40&color=gradient&animation=fadeIn&fontColor=#d1d1d1)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshusingh&label=Profile%20views&color=0e75b6&style=flat" alt="himanshusingh" /> </p>
+<h1><img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> Hello, There!</h1>
 
-<p align="left"> <a href="https://twitter.com/himanshu_14rt" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu_14rt?logo=twitter&style=for-the-badge" alt="himanshu_14rt" /></a> </p>
+<img align="right" src="https://user-images.githubusercontent.com/76584961/216432124-bd562e56-0bc3-495d-8585-b60ad15e5033.gif" style="max-width: 100%; width: 250px; display: inline-block;"/>
 
-- 🌱 I’m currently learning **React**
+<p>I'm Himanshu, <code>Front-end</code> developer from India. I use React often.</p>
+<p>🕐 <code>feb 02, 2023</code> ~ <code>Nov 28, 2023</code> <b> हिमांशु </b> &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/76584961/216518470-88179044-bd5d-47b4-9a02-6224b29f5fa3.gif" style="height: 30px"/></p>
 
-- 💬 Ask me about **MERN stack**
+<br />
+<a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeogun95&count_bg=%23C8A03D&title_bg=%23555555&icon=git.svg&icon_color=%23FFFFFF&title=Seogun95&edge_flat=false"/></a>
 
-- 📫 How to reach me **himanshubhandari4675@gmail.com**
+<h2>MY TECH STACK <img src="https://user-images.githubusercontent.com/76584961/217931497-5525468d-4682-4e93-aaae-fcad0a1b9840.gif" style="height: 30px"/></h2>
 
-- ⚡ Fun fact **I have a strong passion for continuously learning about new technologies**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/himanshu14rt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshu14rt" height="30" width="40" /></a>
+<p>
+   <img width="30" src="https://user-images.githubusercontent.com/76584961/216093017-3e1770bb-a305-492b-b0f7-c12e7935fae4.png" alt="css">
+   <img width="30" src="https://user-images.githubusercontent.com/76584961/216093342-7b2cdcf6-9150-4b30-aedd-d5f79b1f44c8.png" alt="html">
+   <img width="30" src="https://user-images.githubusercontent.com/76584961/216442416-85fcfa93-7512-4b9e-9ff4-1f3b4a9a6567.gif" alt="js">
+<!--    <img width="30" src="https://user-images.githubusercontent.com/76584961/216117810-7c78b892-cb2b-4050-8911-f51ae15cb85e.png" alt="swift">
+   <img width="30" src="https://user-images.githubusercontent.com/76584961/216117822-e83f9b0c-3e41-44ac-9da9-05ecf3494c99.png" alt="swiftui"> -->
+   <img width="30" src="https://user-images.githubusercontent.com/76584961/216093353-d6b5485d-8e51-4f85-a090-552d8cb122ca.png" alt="typescript">    
+   <img width="30" src="https://user-images.githubusercontent.com/76584961/218177725-96163589-fe2d-46ee-87b8-554b1b085260.png" alt="react"> 
+   <img width="30" alt="styled" src="https://user-images.githubusercontent.com/76584961/218177308-36505717-ca4c-4da9-bb04-ffefa5ace9aa.png">
+   <img width="30" alt="scss" src="https://user-images.githubusercontent.com/76584961/218178822-3037b0b3-07cc-486c-bda4-eb254eabe85a.png">
+ 
+<!--<img style="width: 50px;" src="https://user-images.githubusercontent.com/76584961/216094038-441f7d64-1d02-4301-917c-6999c9f9723e.png" alt="bootstrap"> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2>🛠️ TOOLS 🛠️</h2>
+<p>   <img style="width: 40px;" alt="vscode" src="https://user-images.githubusercontent.com/76584961/216272325-ac8b1a90-41ae-42f9-84f9-b9ad9a485a6f.png">
+<!-- <img style="width: 40px;" alt="xcode" src="https://user-images.githubusercontent.com/76584961/216272330-0370238a-e7a8-48df-8d39-28c5cd5c9612.png">
+<img style="width: 40px;" alt="iterm2" src="https://user-images.githubusercontent.com/76584961/216276408-bfcaaff4-a516-4b63-9948-1508885f00a0.png"> -->
+<img style="width: 40px;" alt="terminal" src="https://user-images.githubusercontent.com/76584961/216279126-7cfa9d77-554a-4753-a600-5e6166074248.png">
+<!-- <img style="width: 40px;" alt="typora" src="https://user-images.githubusercontent.com/76584961/216277590-ac90afd4-ed05-483f-862a-357c840eae79.png">
+<img style="width: 40px;" alt="opcidian" src="https://user-images.githubusercontent.com/76584961/216277688-233c8c2c-2762-4a6a-b7e4-d2ba697841b3.png"> -->
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshusingh&show_icons=true&locale=en&layout=compact" alt="himanshusingh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusingh&show_icons=true&locale=en" alt="himanshusingh" /></p>
+<h2>A LITTLE MORE ABOUT ME USING CODE</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusingh&" alt="himanshusingh" /></p>
+```javascript
+const Himanshu = {
+  gender: "male",
+  location: 'India' | 'Dehradun In',
+  language: ['Hindi','English'],
+  code: [HTML, CSS, Javascript, Typescript],
+  tools: [React, Styled-Components],
+  backend: [mongoDB, express, Node.js],
+}
+```
+
+------
+<h2>PROJECT</h2>
+
+
+------
+<h2>WHERE TO FIND ME?</h2>
+
+<p align="center">Follow me on Twitter! <img alt="twitter"  style="width: 20px"> <a href="https://twitter.com/himanshu_14rt" target="_blank" rel="noopener noreferrer">@himanshu_14rt</a>
+  </p>
+<p align="center">hey <i>README</i> Thankyou for visiting me : <br><code> 2002 02 08</code></p>
+</p>
